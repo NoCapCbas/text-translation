@@ -1,0 +1,5 @@
+
+venv/
+**/venv
+
+spanish_translation.txt
